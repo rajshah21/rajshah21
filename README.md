@@ -27,11 +27,12 @@ I am an aspiring **Data Scientist** with a strong foundation in Data Science and
 
 ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-blue?style=flat&logo=microsoft-azure&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-orange?style=flat)
-![NLP](https://img.shields.io/badge/-NLP-green?style=flat)
-![Streamlit](https://img.shields.io/badge/-Streamlit-orange?style=flat&logo=streamlit&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-orange?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-red?style=flat&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD54F?style=flat&logo=huggingface&logoColor=black)
 
 - **Programming**: Python, R, MySQL, PostgreSQL
 - **ML & DL Frameworks**: Scikit-Learn, TensorFlow, PyTorch, Keras
