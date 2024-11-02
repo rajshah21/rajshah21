@@ -45,7 +45,8 @@ I am an aspiring **Data Scientist** with a strong foundation in Data Science and
 ### 📫 Let's Connect!
 
 Feel free to reach out for collaborations, discussions on data science, or just to say hi!  
-📧 Email: shahraj2100@gmail.com  
+📧 Email: shahraj2100@gmail.com 
+📱 Mobile: (872)-258-9921
 📍 Location: Chicago, IL
 
 ---
