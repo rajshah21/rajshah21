@@ -33,51 +33,13 @@ Aspiring **Data Scientist** with a deep passion for data and analytics. I'm curr
 ![NLP](https://img.shields.io/badge/-NLP-green?style=flat)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-orange?style=flat&logo=streamlit&logoColor=white)
 
-- **Programming**: Python, R, SQL
+- **Programming**: Python, R, MySQL, PostgreSQL
 - **ML & DL Frameworks**: Scikit-Learn, TensorFlow, PyTorch, Keras
-- **Data Visualization**: Matplotlib, Seaborn, Plotly
+- **Data Visualization**: Matplotlib, Seaborn, Plotly, Tableau
 - **Cloud & Deployment**: Microsoft Azure, MLFlow, Git, Streamlit
-- **Advanced Techniques**: Transformers, LSTMs, CNNs, BERT, Clustering, Transfer Learning, LangChain
+- **Modelling Techniques**: Classification, Regression, Time-Series Forecasting, Fine-Tuning LLMs and DIffusion Models, OpenCV, Transformers, LSTMs, CNNs, BERT, Clustering, LangChain.
 
----
 
-### 💼 Work Experience
-
-**University of Illinois at Chicago, College of Medicine**  
-*Data Analyst* (Sep 2023 - Present)  
-- Built an automated ETL pipeline in Python, reducing data processing time by 70%.  
-- Created data visualizations to streamline curriculum review, improving efficiency by 50%.  
-
-**D'Souza Data Labs Pvt. Ltd.**  
-*Data Science Intern* (Jan 2022 - Apr 2022)  
-- Developed models for fin-tech applications, including a **User Risk Score Model** (88% accuracy) and a **Transaction Status Predictor** (93% accuracy).  
-- Enhanced user segmentation, decreasing monthly losses by 20%.  
-
----
-
-### 🔬 Projects
-
-#### Depression Detection via Instagram Posts  
-**Tools**: Python, HuggingFace Transformers, DeepFace, CoRex, Zero Shot Classification  
-Collaborated on detecting early signs of depression through social media image and text analysis, utilizing **NLP** and **computer vision** models.
-
-![depression_detection](https://media.giphy.com/media/3o6MbrFhxYoC0A5TPO/giphy.gif) <!-- Replace with a relevant GIF or static image -->
-
-#### Multiple PDF Query Chatbot using RAG  
-**Tools**: Streamlit, LangChain, OpenAI API, Vector Database  
-Built a **local Streamlit chatbot** for PDF querying using **Retrieval-Augmented Generation (RAG)**, allowing efficient document search and Q&A functionality.
-
-#### Customer Churn Analysis (BCG Job Simulation)  
-Performed a customer churn analysis using **Random Forests** (90% accuracy), with insights to reduce churn and enhance customer retention strategies.
-
----
-
-### 📈 Education
-
-- **University of Illinois at Chicago** - MS in Business Analytics (Jan 2023 - Dec 2024), *GPA: 4.0*
-- **Sarvajanik College of Engineering and Technology** - BE in Information Technology (Aug 2018 - Jun 2022), *GPA: 9.76/10*
-
----
 
 ### 📫 Let's Connect!
 
@@ -90,6 +52,4 @@ Feel free to reach out for collaborations, discussions on data science, or just 
 ### ⚙️ GitHub Stats
 
 ![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajshah21&show_icons=true&theme=radical) <!-- Replace with actual GitHub stats widget -->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajshah21&layout=compact&theme=radical) <!-- Replace with actual Top Languages widget -->
 
