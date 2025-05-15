@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/raj-shah-a40a38203/)](https://www.linkedin.com/in/raj-shah-a40a38203/)
 [![GitHub](https://img.shields.io/badge/GitHub-grey?style=flat&logo=github&labelColor=grey&link=https://github.com/rajshah21)](https://github.com/rajshah21)
 
-I am an aspiring **Data Scientist** with a strong foundation in Data Science and a belief that **data is the new oil**—and I'm here to refine it to make it more insightful, actionable, and valuable. Currently pursuing a Master of Science in Business Analytics at the University of Illinois Chicago (GPA: 4.0) 🎓, I’ve honed my skills through internships, research, and hands-on projects. My journey involves **Data Science**, **Machine Learning**, **Natural Language Processing**, and **Data Visualization**, aiming to solve real-world problems and drive impactful, data-driven decisions.
+I am an aspiring **Data Scientist** with a strong foundation in Data Science and a belief that **data is the new oil** and I'm here to refine it to make it more insightful, actionable, and valuable. Recently graduated with a Master of Science in Business Analytics at the University of Illinois Chicago (GPA: 4.0) 🎓, I’ve honed my skills through internships, research, and hands-on projects. My journey involves **Data Science**, **Machine Learning**, **Natural Language Processing**, and **Data Visualization**, aiming to solve real-world problems and drive impactful, data-driven decisions.
 
 
 ---
